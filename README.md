@@ -13,3 +13,8 @@ python爬虫
 ```shell
 $ python crawl.py
 ```
+
+## 参考文档
+
+[BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/#multi-valued-attributes)
+[requests](http://docs.python-requests.org/zh_CN/latest/)
